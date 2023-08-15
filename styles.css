@@ -6,9 +6,10 @@
     background-color: #900C3F;
 }
 
-/* Body */
+/* Body and footer */ 
 
-.recipe {
+.recipe,
+.footer {
     text-align: center;
     color: #F94C10 ;
 }
