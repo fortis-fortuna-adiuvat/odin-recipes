@@ -4,12 +4,8 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-.container {
     background-color: #900C3F;
     min-height: 100vh;
-
 }
 
 .title {
@@ -30,6 +26,17 @@ body {
     font-weight: 100;
 }
 
+div .recipe {
+    display: inline-block;
+    font-size: 1.5rem;
+    padding: 1em;
+    height: 200px;
+    width: 200px;
+    margin: 40px;
+    border: 2px solid #F94C10;
+    overflow: hidden;
+}
+
 .recipe {
     font-size: 20px;
 }
@@ -42,3 +49,8 @@ body {
 .links:hover {
     color: #f8DE22;
 }
+
+.footer {
+    font-size: 1.5rem;
+}
+
