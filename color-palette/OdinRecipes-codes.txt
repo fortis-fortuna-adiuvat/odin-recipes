@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #0a0805 (RGB: 10, 8, 5)
+    Background: #eee6dd (RGB: 238, 230, 221)
+    Primary: #dccbb7 (RGB: 220, 203, 183)
+    Secondary: #e2d6c5 (RGB: 226, 214, 197)
+    Accent: #936f47 (RGB: 147, 111, 71)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=0a0805-eee6dd-dccbb7-e2d6c5-936f47
+
+Thanks for using RealtimeColors.com!
