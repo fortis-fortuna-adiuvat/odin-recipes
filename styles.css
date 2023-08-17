@@ -1,10 +1,24 @@
 /* <!-- Title --> */
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #900C3F;
+    min-height: 100vh;
+
+}
 
 .title {
     color: #f8DE22;
-    background-color: #900C3F;
-    font-size: 50px;
+    font-size: 4rem;
     font-weight: 100;
+    margin: 0 auto;
+    padding: 1em;
+    
 }
 
 /* Body and footer */ 
