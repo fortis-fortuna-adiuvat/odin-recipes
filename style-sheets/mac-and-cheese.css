@@ -1,20 +1,27 @@
 /* Heading */
-
-.title {
-    text-align: center;
-    color: #f8DE22;
-    background-color: #900C3F;
-    font-size: 50px;
-    font-weight: 100;
-}
-
-/* body */
-
-body {
+* { 
+    box-sizing: border-box;
+    background-color: #eee6dd;
     font-family: copperplate, papyrus, fantasy;
     font-weight: 100;
     font-size: 20px;
-    color: #f94c10;
+    color: #0A0805;
+    text-align: center;
+}
+
+
+.title {
+    text-align: center;
+    color: #0A0805;
+    font-size: 4rem;
+    margin: 0 auto;
+    padding: 0.5em;
+}
+
+div {
+    width: 1000px;
+    margin: 0 auto;
+    border: 2px solid #936f47;
 }
 
 img {
@@ -25,5 +32,9 @@ img {
 .heading {
     font-size: 25px;
     font-weight: 400;
-    color: #900C3F;
+    color: #936f47;
+}
+
+li {
+    margin:auto;
 }
