@@ -1,11 +1,9 @@
 /* <!-- Title --> */
 html,
 body {
-    margin: 0;
-    padding: 0;
+    margin: 0px; 
     box-sizing: border-box;
     background-color: #900C3F;
-    min-height: 100vh;
 }
 
 .title {
@@ -32,7 +30,7 @@ div .recipe {
     padding: 1em;
     height: 200px;
     width: 200px;
-    margin: 40px;
+    margin: 50px;
     border: 2px solid #F94C10;
     overflow: hidden;
 }
