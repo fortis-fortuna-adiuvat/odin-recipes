@@ -1,27 +1,24 @@
-/* <!-- Title --> */
+/* <!-- Main Page Design --> */
 html,
 body {
     margin: 0px; 
     box-sizing: border-box;
-    background-color: #900C3F;
+    background-color: #EEE6DD;
+    font-family: copperplate, papyrus, fantasy;
+    text-align: center;
+    color: #0a0805 ;
+    font-weight: 100;
 }
 
+/* Body */
+
 .title {
-    color: #f8DE22;
+    color: #0a0805;
     font-size: 4rem;
     font-weight: 100;
     margin: 0 auto;
     padding: 1em;
     
-}
-
-/* Body and footer */ 
-
-body {
-    font-family: copperplate, papyrus, fantasy;
-    text-align: center;
-    color: #F94C10 ;
-    font-weight: 100;
 }
 
 div .recipe {
@@ -31,24 +28,23 @@ div .recipe {
     height: 200px;
     width: 200px;
     margin: 50px;
-    border: 2px solid #F94C10;
+    border: 2px solid #936f47;
     overflow: hidden;
-}
-
-.recipe {
-    font-size: 20px;
-}
-
-.links {
-    color: #F94C10;
-    text-decoration: none;
-}
-
-.links:hover {
-    color: #f8DE22;
 }
 
 .footer {
     font-size: 1.5rem;
 }
+
+/* Links */
+
+.links {
+    color: #936f47;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: #ffffff;
+}
+
 
