@@ -33,3 +33,12 @@ body {
 .recipe {
     font-size: 20px;
 }
+
+.links {
+    color: #F94C10;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: #f8DE22;
+}
