@@ -5,3 +5,5 @@ This project will be the creation of a website that has links to diffrent recipi
 By the end of this project I will have demonstrated a basic understanding of html fundamentals.
 
 I will continue to update this page until I feel, I've done enough.
+
+Currently planning a rehaul using flexBox.
