@@ -1,9 +1,14 @@
 /* <!-- Main Page Design --> */
+:root {
+    --background-color: #EEE6DD;
+}
+
+
 html,
 body {
     margin: 0px; 
     box-sizing: border-box;
-    background-color: #EEE6DD;
+    background-color: var(--background-color);
     font-family: copperplate, papyrus, fantasy;
     text-align: center;
     color: #0a0805 ;
