@@ -1,7 +1,8 @@
 /* <!-- Main Page Design --> */
 :root {
     --background-color: #EEE6DD;
-    --Text-color: #0A0805; 
+    --text-color: #0A0805; 
+    --extra-color: #936F47;
 }
 
 
@@ -12,7 +13,7 @@ body {
     background-color: var(--background-color);
     font-family: copperplate, papyrus, fantasy;
     text-align: center;
-    color: var(--Text-color);
+    color: var(--text-color);
     font-weight: 100;
 }
 
@@ -34,7 +35,7 @@ div .recipe {
     height: 200px;
     width: 200px;
     margin: 50px;
-    border: 2px solid #936f47;
+    border: 2px solid var(--extra-color);
     overflow: hidden;
 }
 
@@ -45,7 +46,7 @@ div .recipe {
 /* Links */
 
 .links {
-    color: #936f47;
+    color: var(--extra-color);
     text-decoration: none;
 }
 
