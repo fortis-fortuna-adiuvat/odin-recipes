@@ -20,7 +20,7 @@ body {
 /* Body */
 
 .title {
-    color: #0a0805;
+    color: var(--text-color);
     font-size: 4rem;
     font-weight: 100;
     margin: 0 auto;
