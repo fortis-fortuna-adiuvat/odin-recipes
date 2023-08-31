@@ -1,4 +1,10 @@
 /* Heading */
+:root {
+    --background-color: #EEE6DD;
+    --text-color: #0A0805; 
+    --extra-color: #936F47;
+}
+
 * { 
     box-sizing: border-box;
     background-color: #eee6dd;
